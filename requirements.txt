@@ -1,8 +1,10 @@
 langchain
 python-dotenv
 langchain_community
-faiss-cp
+faiss-cpu
 streamlit
 langchain_groq
 langchain-tavily
 langchain-classic
+langchain-mistralai
+tavily
