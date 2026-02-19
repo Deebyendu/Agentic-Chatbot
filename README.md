@@ -111,7 +111,7 @@ A sequential three-node pipeline:
 
 ```bash
 # Clone the repository
-git clone https://github.com/Deebyendu/\Agentic-Chatbot.git
+git clone https://github.com/Deebyendu/Agentic-Chatbot.git
 cd e2e-agentic-chatbot
 
 # Create and activate a virtual environment
