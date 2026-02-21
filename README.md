@@ -1,4 +1,4 @@
-# 🤖 E2E Agentic Chatbot — LangGraph Stateful Agentic AI
+# 🤖 Agentic Chatbot — LangGraph Stateful Agentic AI
 
 A full-stack, end-to-end agentic AI application built with **LangGraph**, **Streamlit**, and support for multiple LLMs (Groq & Mistral). The app enables stateful, multi-node AI graph workflows across three use cases: a basic chatbot, a web-search-enabled chatbot, and an AI news aggregator.
 
